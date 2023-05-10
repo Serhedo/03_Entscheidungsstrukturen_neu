@@ -101,17 +101,17 @@
 
 /********  Fallunterscheidung / SWITCH|CASE 2 *******/
 
-const cond = true;
-const a = 2;
+// const cond = true;
+// const a = 2;
 
-switch (cond) {
-    case (a==1):
-        console.log("a ist gleich 1!");
-        break;
-    case (a==2):
-        console.log("a ist gleich 2!");
-        break;
-    default:
-        console.log("a hat einen anderen Wert!");
-        break;
-}
+// switch (cond) {
+//     case (a==1):
+//         console.log("a ist gleich 1!");
+//         break;
+//     case (a==2):
+//         console.log("a ist gleich 2!");
+//         break;
+//     default:
+//         console.log("a hat einen anderen Wert!");
+//         break;
+// }
